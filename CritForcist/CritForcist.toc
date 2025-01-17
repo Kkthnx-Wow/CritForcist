@@ -1,0 +1,13 @@
+## Interface: 110005, 40401, 11505
+## Title: |cffFFB6C1C|cffFF69B4r|cffFF1493i|cffDB7093t|cffBA55D3F|cff9370DBo|cff8A2BE2r|cff7B68EEc|cff6A5ACDi|cff483D8Be|cff4169E1s|cff4682B4t|cff5F9EA0i|cff6495EDc|r
+## Notes: Displays stylish critical hit animations with sound effects..|n|n|cff669DFFDeveloper|cffffffff:|r |nJosh "|CFF7b8489Kkthnx|r" Russell|n|n|cff009cdePayPal|r|cffffffff:|r |n|cffffffffwww.paypal.me/KkthnxTV|r|n|n|cfff96854Patreon|r|cffffffff:|r |n|cffffffffwww.patreon.com/Kkthnx|r
+## Author: Josh "Kkthnx" Russell
+## Version: 1.0.0
+## SavedVariablesPerCharacter: CritForcistDB
+## IconTexture: 
+## X-Support: TWW, Classic
+## X-Curse-Project-ID:
+## X-Wago-ID: 
+
+# Core
+CritForcist.lua
